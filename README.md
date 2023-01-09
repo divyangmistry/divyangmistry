@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Virus, OS, RDP, Life!! <br>
+👯 I’m looking to collaborate on any platform you mention. <br>
+🌱 I’m currently learning C, C++, Coding Basic Algorithm. <br>
+💬 Ask me about ... what all you have in your mind those are not hard to answer. <br>
+⚡ Fun fact ... looking at your problems as if it's not a problems makes it easier to solve. <br>
 
 
 ## 🌐 Socials:
